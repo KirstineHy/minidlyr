@@ -7,9 +7,9 @@
 my_fancy_add(x, y)
 }
 \arguments{
-\item{x}{}
+\item{x}{Is first variable}
 
-\item{y}{}
+\item{y}{Is second variable}
 }
 \value{
 The sum of x anf y

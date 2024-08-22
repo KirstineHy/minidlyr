@@ -4,8 +4,8 @@
 #'
 #'This will be the details.  
 #'
-#' @param x 
-#' @param y 
+#' @param x Is first variable
+#' @param y Is second variable
 #'
 #' @return The sum of x anf y
 #' @export
